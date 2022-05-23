@@ -1,0 +1,36 @@
+ul {
+    color:salmon;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    color: lightcoral;
+}
+
+p {
+    color: darkgoldenrod;
+}
+
+ol {
+    color: darkgoldenrod;
+}
+
+body {
+    background-color: rgb(240, 208, 208);
+}
+
+p, ul, ol{
+    font-size: 18px;
+}
